@@ -1,4 +1,4 @@
-# Angelina Burguers 🍔
+# Angelina Burgers 🍔
 
 Aplicación desarrollada en Flutter utilizando Clean Architecture, patrones escalables y las mejores prácticas de desarrollo móvil. 
 Esta aplicación está diseñada para mostrar un catálogo de hamburguesas y permitir a los usuarios interactuar con él (por ejemplo, ver detalles, agregar al carrito).
