@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "angelina_burguers" "\0"
+            VALUE "FileDescription", "angelina_burgers" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "angelina_burguers" "\0"
+            VALUE "InternalName", "angelina_burgers" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "angelina_burguers.exe" "\0"
-            VALUE "ProductName", "angelina_burguers" "\0"
+            VALUE "OriginalFilename", "angelina_burgers.exe" "\0"
+            VALUE "ProductName", "angelina_burgers" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
